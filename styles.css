@@ -29,7 +29,7 @@ section {
 }
 
 h1, h2 {
-    color: #00bfff;
+    color: #000000; /* Change this to black (#000000) */
 }
 
 p {
