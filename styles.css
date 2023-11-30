@@ -18,9 +18,9 @@ header {
 header img {
     float: left; /* Align the image to the left */
     margin-right: 10px;
-    margin-bottom: 10px;
-    width: 140px; /* Adjust the width as needed */
-    height: 100px; /* Maintain aspect ratio */
+    margin-bottom: 50px;
+    width: 280px; /* Adjust the width as needed */
+    height: 200px; /* Maintain aspect ratio */
 }
 
 section {
