@@ -18,7 +18,8 @@ header {
 header img {
     float: left; /* Align the image to the left */
     margin-right: 10px;
-    width: 100px; /* Adjust the width as needed */
+    margin-bottom: 10px;
+    width: 140px; /* Adjust the width as needed */
     height: 100px; /* Maintain aspect ratio */
 }
 
