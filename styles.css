@@ -1,43 +1,44 @@
 /* styles.css */
 
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f8f8f8;
+    background-color: #121212;
+    color: #ffffff;
 }
 
 header {
-    background-color: #2c3e50;
-    color: #ecf0f1;
+    background-color: #292929;
+    color: #00bfff;
     text-align: center;
     padding: 1em;
 }
 
 section {
     padding: 2em;
-    background-color: #fff;
+    background-color: #1e1e1e;
     margin: 20px;
     border-radius: 10px;
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 15px rgba(0, 191, 255, 0.2);
 }
 
 h1, h2 {
-    color: #2c3e50;
+    color: #00bfff;
 }
 
 p {
-    color: #555;
+    color: #a0a0a0;
 }
 
 a {
-    color: #3498db;
+    color: #00bfff;
     text-decoration: none;
     transition: color 0.3s ease;
 }
 
 a:hover {
-    color: #2980b9;
+    color: #ffffff;
 }
 
-/* Add additional styling as needed */
+/* Add additional futuristic styling as needed */
