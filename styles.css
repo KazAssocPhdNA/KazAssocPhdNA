@@ -1,9 +1,4 @@
 /* styles.css */
-header img {
-    width: 50px; /* Adjust the width as needed */
-    height: 50x; /* Maintain aspect ratio */
-    margin-bottom: 10px; /* Add margin if necessary */
-}
 
 body {
     font-family: 'Roboto', sans-serif;
@@ -18,6 +13,11 @@ header {
     color: #00bfff;
     text-align: center;
     padding: 1em;
+}
+
+header img {
+    float: left; /* Align the image to the left */
+    margin-right: 10px; /* Add some margin to separate the image from the text */
 }
 
 section {
